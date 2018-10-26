@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "app\\": "src"
+            "tonisormisson\\eeprocurement\\definitions\\": "src"
         }
     },
     "extra": {
