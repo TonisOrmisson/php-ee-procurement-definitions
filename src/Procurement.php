@@ -1,5 +1,7 @@
 <?php
 
+namespace tonisormisson\eeprocurement\definitions;
+
 class Procurement
 {
     /** @var integer $procurementId */
